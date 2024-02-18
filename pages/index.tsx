@@ -201,7 +201,7 @@ export default function Home() {
                         </button>
                     </div>
                     <h2 className="text-center font-bold text-black">
-                        Your NOL-E's removed 0 ton of CO2 since 02/2023
+                        Your NOL-E removed 0 ton of CO2 since 02/2023
                     </h2>
                 </div>
             </div>
