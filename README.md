@@ -1,4 +1,4 @@
-# RUN ON YOUR PC
+# RUN ON YOURS
 
 1. clone this repo
 2. go to this path
